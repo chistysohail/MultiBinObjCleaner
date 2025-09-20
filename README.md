@@ -1,4 +1,5 @@
 BinObjCleaner
+
 A .NET 6 console app that deletes all bin, obj, and .vs folders under a given path (recursively).
 Useful for cleaning up Visual Studio / .NET projects.
 
