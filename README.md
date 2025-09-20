@@ -1,4 +1,4 @@
-# 🧹 BinObjCleaner
+# 🧹 Multiple Projects BinObjCleaner
 
 ✨ A tiny **.NET 6 console app** that nukes all your  
 `bin`, `obj`, and `.vs` folders (recursively) — keeping your projects **fresh & tidy**.  
